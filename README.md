@@ -2,35 +2,50 @@
 
 ### Full Stack Developer | Software Engineering | Java | Spring Boot | React | Next.js
 
-*Full Stack Developer and PIBITI researcher at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
-*Software Engineer and Project Lead at Descontey!*
-*Undergraduate student in [Internet Systems at IF Sudeste MG](https://www.ifsudestemg.edu.br/)*
+*Full Stack Developer and PIBITI Researcher at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
+*Software Engineer and Project Lead at **Descontey!***
+*Internet Systems undergraduate at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
+
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+</a>
 
 <br>
 
-<p align="left">
-  <a href="https://www.ifsudestemg.edu.br/">
-    <img src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png" height="65" alt="Instituto Federal do Sudeste de Minas Gerais"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gov.br/cnpq/">
-    <img src="https://logodownload.org/wp-content/uploads/2016/10/cnpq-logo-7.png" height="65" alt="CNPq"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" bgcolor="#ffffff">
+      <a href="https://www.ifsudestemg.edu.br/">
+        <img
+          src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
+          height="60"
+          alt="Instituto Federal do Sudeste de Minas Gerais"
+        />
+      </a>
+    </td>
+    <td align="center" bgcolor="#ffffff">
+      <a href="https://www.gov.br/cnpq/">
+        <img
+          src="https://logodownload.org/wp-content/uploads/2016/10/cnpq-logo-7.png"
+          height="60"
+          alt="CNPq"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## About me
 
-I am a Full Stack Developer focused on building modern, scalable and production-ready web applications.
+I am a Full Stack Developer focused on building modern, scalable and production-ready applications.
 
-My experience includes backend and frontend development, REST APIs, authentication systems, relational and non-relational databases, software architecture, distributed caching, performance optimization and integration with generative AI APIs.
+My experience includes backend and frontend development, REST APIs, authentication and authorization, relational and non-relational databases, software architecture, distributed caching, cloud infrastructure, web performance and integration with generative AI APIs.
 
-I have worked with technologies such as **Java, Spring Boot, React, Next.js, Node.js, TypeScript, PostgreSQL, Supabase and Redis**, applying software engineering principles to real-world projects.
+My main technologies include **Java, Spring Boot, TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Redis and AWS**.
 
-Currently, I am completing my degree in **Internet Systems at Instituto Federal do Sudeste de Minas Gerais**.
-
-```java
+```java id="n9av6q"
 public class PedroNunes {
 
     private final String role = "Full Stack Developer";
@@ -51,12 +66,18 @@ public class PedroNunes {
         "Redis"
     };
 
+    private final String[] cloud = {
+        "AWS",
+        "Cloudflare",
+        "Vercel"
+    };
+
     private final String[] interests = {
         "Software Engineering",
         "Software Architecture",
         "Backend Development",
-        "Full Stack Development",
-        "Performance",
+        "Cloud Computing",
+        "Web Performance",
         "Artificial Intelligence"
     };
 
@@ -87,26 +108,35 @@ public class PedroNunes {
 ![React.js](https://img.shields.io/badge/Library-React.js-informational?style=flat\&logo=react\&logoColor=white\&color=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Library-Vue.js-informational?style=flat\&logo=vuedotjs\&logoColor=white\&color=4FC08D)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat\&logo=nextdotjs\&logoColor=white\&color=000000)
+![Radix UI](https://img.shields.io/badge/UI-Radix_UI-informational?style=flat\&logo=radixui\&logoColor=white\&color=161618)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat\&logo=bootstrap\&logoColor=white\&color=7952B3)
 ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat\&logo=tailwindcss\&logoColor=white\&color=06B6D4)
+![Super CSS](https://img.shields.io/badge/Style-Super_CSS-informational?style=flat\&logo=css\&logoColor=white\&color=1572B6)
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-informational?style=flat\&logo=html5\&logoColor=white\&color=E34F26)
-![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat\&logo=css3\&logoColor=white\&color=1572B6)
+![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat\&logo=css\&logoColor=white\&color=1572B6)
 
-### Databases and Storage
+### Databases & Cache
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat\&logo=postgresql\&logoColor=white\&color=4169E1)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat\&logo=mongodb\&logoColor=white\&color=47A248)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-informational?style=flat\&logo=supabase\&logoColor=white\&color=3FCF8E)
 ![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat\&logo=redis\&logoColor=white\&color=DC382D)
 
-### DevOps and Tools
+### Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat\&logo=amazonwebservices\&logoColor=white\&color=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat\&logo=cloudflare\&logoColor=white\&color=F38020)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat\&logo=vercel\&logoColor=white\&color=000000)
+
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat\&logo=docker\&logoColor=white\&color=2496ED)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat\&logo=vercel\&logoColor=white\&color=000000)
 ![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat\&logo=git\&logoColor=white\&color=F05032)
 ![GitHub](https://img.shields.io/badge/Repository-GitHub-informational?style=flat\&logo=github\&logoColor=white\&color=181717)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat\&logo=linux\&logoColor=000000\&color=FCC624)
-![Visual Studio Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat\&logo=visualstudiocode\&logoColor=white\&color=007ACC)
+![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat\&logo=visualstudiocode\&logoColor=white\&color=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat\&logo=intellijidea\&logoColor=white\&color=000000)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat\&logo=eclipseide\&logoColor=white\&color=2C2255)
 
 ---
 
@@ -121,14 +151,14 @@ Research and technological development project focused on a Full Stack Progressi
 
 Main contributions:
 
-* Development of a Full Stack Progressive Web Application
-* Authentication system with hashed passwords
+* Full Stack Progressive Web Application development
+* Authentication with hashed passwords
 * Google OAuth account integration
-* Rate limiting and application security mechanisms
+* Rate limiting and application security
 * Responsive interface focused on UX
-* Development of behavioral analysis algorithms
+* Behavioral analysis algorithms
 * PostgreSQL data persistence using Supabase
-* Deployment and production environment using Vercel
+* Production deployment using Vercel
 
 **Stack**
 
@@ -151,20 +181,20 @@ Full Stack platform focused on coupons, promotions, content management and scala
 Main contributions:
 
 * Architecture and development of the platform
-* Infrastructure designed to support approximately **30,000 simultaneous users**
+* Infrastructure designed for approximately **30,000 simultaneous users**
 * Administrative dashboard for managing thousands of publications
-* Category and user management
+* Categories, users and content management
 * Integration with generative AI APIs
-* Automatic generation of descriptions and images
+* Automatic description and image generation
 * Database query optimization
-* Storage indexing and performance improvements
+* Storage indexing
 * Query response time reduction of approximately **75%**
-* Distributed caching strategy to reduce repeated database requests
+* Distributed caching to reduce repeated requests
 * Migration to Next.js
 * SEO and web performance optimization
 * Lighthouse scores above **95**
 * Notification management system
-* Production architecture and infrastructure optimization
+* Cloud and production infrastructure optimization
 
 **Stack**
 
@@ -172,9 +202,11 @@ Main contributions:
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat\&logo=react\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat\&logo=radixui\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
 
 ---
 
@@ -187,16 +219,16 @@ My main areas of study and practice include:
 * Design Patterns
 * Software Architecture
 * RESTful APIs
-* Authentication and Authorization
+* Authentication & Authorization
 * JWT
 * OAuth
 * Relational Databases
 * NoSQL Databases
 * Database Query Optimization
-* Distributed Cache
+* Distributed Caching
+* Cloud Computing
 * CI/CD
-* Git
-* GitHub
+* Git & GitHub
 * UX/UI
 * SEO
 * Web Performance
@@ -212,11 +244,19 @@ My main areas of study and practice include:
 
 Expected graduation: **December 2026**
 
-<p>
-  <a href="https://www.ifsudestemg.edu.br/">
-    <img src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png" height="55" alt="IF Sudeste MG"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" bgcolor="#ffffff">
+      <a href="https://www.ifsudestemg.edu.br/">
+        <img
+          src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
+          height="55"
+          alt="IF Sudeste MG"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Computer Networks Technician
 
@@ -226,9 +266,21 @@ Completed in **June 2026**
 
 ---
 
-## Courses and Certifications
+## Courses & Certifications
 
 ### University of Helsinki
+
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48" alt="Finland"/>
+    </td>
+    <td valign="middle">
+      <strong>University of Helsinki — Finland</strong><br>
+      Java Programming MOOC & Full Stack Open
+    </td>
+  </tr>
+</table>
 
 **Java Programming MOOC**
 
@@ -240,6 +292,8 @@ Completed in **June 2026**
 * Full Stack Web Development
 
 ### Cisco Networking Academy
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-informational?style=flat\&logo=cisco\&logoColor=white\&color=1BA0D7)
 
 * CCNA
 * Linux Unhatched
@@ -253,23 +307,15 @@ Completed in **June 2026**
 
 ### Additional Studies
 
+![Java](https://img.shields.io/badge/Java-OOP-informational?style=flat\&logo=openjdk\&logoColor=white\&color=ED8B00)
+![Architecture](https://img.shields.io/badge/Software-Architecture-informational?style=flat\&logo=diagramsdotnet\&logoColor=white\&color=F08705)
+![SOLID](https://img.shields.io/badge/Principles-SOLID-informational?style=flat\&logo=cleanarchitecture\&logoColor=white\&color=6C63FF)
+
 * Java Object-Oriented Programming
 * Design Patterns
 * SOLID Principles
 * Full Stack Development
 * Software Architecture
-
----
-
-## GitHub Statistics
-
-<div align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroNunes0z&show_icons=true&hide_border=true&include_all_commits=true" alt="Pedro Nunes GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes0z&layout=compact&langs_count=8&hide_border=true" alt="Most used languages"/>
-
-</div>
 
 ---
 
@@ -289,8 +335,14 @@ Completed in **June 2026**
 
 [![Email](https://img.shields.io/badge/Email-contato.pedronunes.dev%40gmail.com-informational?style=flat\&logo=gmail\&logoColor=white\&color=EA4335)](mailto:contato.pedronunes.dev@gmail.com)
 
+<br>
+
+<a href="https://github.com/pedromxavier/flag-badges">
+    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+</a>
+
 ---
 
 <p align="center">
-  <sub>Software engineering, web development and continuous learning.</sub>
+  <sub>Software Engineering • Full Stack Development • Cloud • Continuous Learning</sub>
 </p>
