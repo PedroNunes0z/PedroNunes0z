@@ -214,25 +214,17 @@ Main contributions:
 
 My main areas of study and practice include:
 
-* Object-Oriented Programming
-* SOLID Principles
-* Design Patterns
-* Software Architecture
+* Object-Oriented Programming, SOLID Principles, Design Patterns, Software Architecture
 * RESTful APIs
-* Authentication & Authorization
-* JWT
-* OAuth
-* Relational Databases
-* NoSQL Databases
-* Database Query Optimization
-* Distributed Caching
+* Authentication & Authorization, JWT & OAuth
+* Relational Databases & NoSQL Databases
+* Database Query Optimization & Distributed Caching
 * Cloud Computing
 * CI/CD
 * Git & GitHub
 * UX/UI
-* SEO
-* Web Performance
-* Generative AI API Integration
+* SEO & Web Performance
+* Generative AI & API Integration
 
 ---
 
@@ -284,8 +276,7 @@ Completed in **June 2026**
 
 **Java Programming MOOC**
 
-* Java Programming I
-* Java Programming II
+* Java Programming I & II
 
 **Full Stack Open**
 
@@ -298,12 +289,9 @@ Completed in **June 2026**
 * CCNA
 * Linux Unhatched
 * IT Support Essentials
-* JavaScript Essentials 1
-* JavaScript Essentials 2
-* Python Essentials 1
-* Python Essentials 2
-* English for IT 1
-* English for IT 2
+* JavaScript Essentials 1 & 2
+* Python Essentials 1 & 2
+* English for IT 1 & 2
 
 ### Additional Studies
 
