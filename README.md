@@ -6,11 +6,20 @@
 *Software Engineer and Project Lead at **Descontey!***
 *Internet Systems undergraduate at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
 
-<a href="https://github.com/pedromxavier/flag-badges">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
-</a>
+<br>
+
+[![Website](https://img.shields.io/badge/GitHub%20Pages-pedronunesdev-222222?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://pedronunes0z.github.io/pedronunesdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Nunes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-nunes-dev-contato)
+[![GitHub](https://img.shields.io/badge/GitHub-PedroNunes0z-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PedroNunes0z)
+[![Gmail](https://img.shields.io/badge/Gmail-contato.pedronunes.dev-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contato.pedronunes.dev@gmail.com)
 
 <br>
+
+<a href="https://github.com/pedromxavier/flag-badges">
+  <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+</a>
+
+<br><br>
 
 <table>
   <tr>
@@ -18,7 +27,7 @@
       <a href="https://www.ifsudestemg.edu.br/">
         <img
           src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
-          height="60"
+          height="65"
           alt="Instituto Federal do Sudeste de Minas Gerais"
         />
       </a>
@@ -27,7 +36,7 @@
       <a href="https://www.gov.br/cnpq/">
         <img
           src="https://logodownload.org/wp-content/uploads/2016/10/cnpq-logo-7.png"
-          height="60"
+          height="65"
           alt="CNPq"
         />
       </a>
@@ -39,13 +48,13 @@
 
 ## About me
 
-I am a Full Stack Developer focused on building modern, scalable and production-ready applications.
+I am a **Full Stack Developer** focused on software engineering, backend development, modern web applications and scalable architectures.
 
-My experience includes backend and frontend development, REST APIs, authentication and authorization, relational and non-relational databases, software architecture, distributed caching, cloud infrastructure, web performance and integration with generative AI APIs.
+My experience includes **REST APIs, authentication and authorization, relational and non-relational databases, caching, cloud infrastructure, performance optimization, responsive interfaces and generative AI integrations**.
 
-My main technologies include **Java, Spring Boot, TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Redis and AWS**.
+I work mainly with **Java, Spring Boot, TypeScript, React, Next.js, Node.js, PostgreSQL, Supabase, Redis and cloud technologies**.
 
-```java id="n9av6q"
+```java
 public class PedroNunes {
 
     private final String role = "Full Stack Developer";
@@ -59,17 +68,17 @@ public class PedroNunes {
         "Node.js"
     };
 
+    private final String[] cloud = {
+        "AWS",
+        "Cloudflare",
+        "Vercel"
+    };
+
     private final String[] databases = {
         "PostgreSQL",
         "MongoDB",
         "Supabase",
         "Redis"
-    };
-
-    private final String[] cloud = {
-        "AWS",
-        "Cloudflare",
-        "Vercel"
     };
 
     private final String[] interests = {
@@ -87,91 +96,129 @@ public class PedroNunes {
 
 ---
 
-## Technologies
+# Technologies
 
-### Languages
+## Languages
 
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat\&logo=openjdk\&logoColor=white\&color=ED8B00)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat\&logo=javascript\&logoColor=000000\&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat\&logo=typescript\&logoColor=white\&color=3178C6)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat\&logo=python\&logoColor=white\&color=3776AB)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat\&logo=springboot\&logoColor=white\&color=6DB33F)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat\&logo=nodedotjs\&logoColor=white\&color=339933)
-![REST API](https://img.shields.io/badge/API-REST-informational?style=flat\&logo=fastapi\&logoColor=white\&color=009688)
-![JWT](https://img.shields.io/badge/Auth-JWT-informational?style=flat\&logo=jsonwebtokens\&logoColor=white\&color=000000)
-
-### Frontend
-
-![React.js](https://img.shields.io/badge/Library-React.js-informational?style=flat\&logo=react\&logoColor=white\&color=61DAFB)
-![Vue.js](https://img.shields.io/badge/Library-Vue.js-informational?style=flat\&logo=vuedotjs\&logoColor=white\&color=4FC08D)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat\&logo=nextdotjs\&logoColor=white\&color=000000)
-![Radix UI](https://img.shields.io/badge/UI-Radix_UI-informational?style=flat\&logo=radixui\&logoColor=white\&color=161618)
-![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat\&logo=bootstrap\&logoColor=white\&color=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat\&logo=tailwindcss\&logoColor=white\&color=06B6D4)
-![Super CSS](https://img.shields.io/badge/Style-Super_CSS-informational?style=flat\&logo=css\&logoColor=white\&color=1572B6)
-![HTML5](https://img.shields.io/badge/Markup-HTML5-informational?style=flat\&logo=html5\&logoColor=white\&color=E34F26)
-![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat\&logo=css\&logoColor=white\&color=1572B6)
-
-### Databases & Cache
-
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat\&logo=postgresql\&logoColor=white\&color=4169E1)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat\&logo=mongodb\&logoColor=white\&color=47A248)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-informational?style=flat\&logo=supabase\&logoColor=white\&color=3FCF8E)
-![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat\&logo=redis\&logoColor=white\&color=DC382D)
-
-### Cloud & Deployment
-
-![AWS](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat\&logo=amazonwebservices\&logoColor=white\&color=FF9900)
-![Cloudflare](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat\&logo=cloudflare\&logoColor=white\&color=F38020)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat\&logo=vercel\&logoColor=white\&color=000000)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat\&logo=docker\&logoColor=white\&color=2496ED)
-![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat\&logo=git\&logoColor=white\&color=F05032)
-![GitHub](https://img.shields.io/badge/Repository-GitHub-informational?style=flat\&logo=github\&logoColor=white\&color=181717)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat\&logo=linux\&logoColor=000000\&color=FCC624)
-![VS Code](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat\&logo=visualstudiocode\&logoColor=white\&color=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat\&logo=intellijidea\&logoColor=white\&color=000000)
-![Eclipse](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat\&logo=eclipseide\&logoColor=white\&color=2C2255)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
 
 ---
 
-## Experience
+## Frontend
 
-### Instituto Federal do Sudeste de Minas Gerais
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+
+### UI & Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge\&logo=radixui\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge\&logo=LaTeX\&logoColor=white)
+
+---
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C4043?style=for-the-badge\&logo=auth0\&logoColor=white)
+
+---
+
+## Databases & Cache
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?\&style=for-the-badge\&logo=redis\&logoColor=white)
+
+---
+
+## Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://pedronunes0z.github.io/pedronunesdev/)
+
+---
+
+## Operating Systems & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+---
+
+## Hardware & IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+
+---
+
+## Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
+
+---
+
+# Experience
+
+## Instituto Federal do Sudeste de Minas Gerais
 
 **Full Stack Developer — PIBITI**
 `2025 — 2026`
 
-Research and technological development project focused on a Full Stack Progressive Web Application for a nutritional behavior platform.
+Research and technological development project focused on a **Full Stack Progressive Web Application** for a nutritional behavior platform.
 
 Main contributions:
 
-* Full Stack Progressive Web Application development
+* Full Stack PWA development
 * Authentication with hashed passwords
-* Google OAuth account integration
+* Google OAuth integration
 * Rate limiting and application security
 * Responsive interface focused on UX
 * Behavioral analysis algorithms
-* PostgreSQL data persistence using Supabase
+* PostgreSQL persistence with Supabase
 * Production deployment using Vercel
 
 **Stack**
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat\&logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-### Descontey!
+## Descontey!
 
 **Full Stack Developer / Project Lead**
 `2025 — Present`
@@ -183,54 +230,62 @@ Main contributions:
 * Architecture and development of the platform
 * Infrastructure designed for approximately **30,000 simultaneous users**
 * Administrative dashboard for managing thousands of publications
-* Categories, users and content management
-* Integration with generative AI APIs
+* User, category and content management
+* Generative AI API integrations
 * Automatic description and image generation
 * Database query optimization
-* Storage indexing
+* Storage indexing and performance improvements
 * Query response time reduction of approximately **75%**
-* Distributed caching to reduce repeated requests
+* Distributed caching strategy
 * Migration to Next.js
 * SEO and web performance optimization
 * Lighthouse scores above **95**
 * Notification management system
-* Cloud and production infrastructure optimization
+* Cloud infrastructure optimization
 
 **Stack**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat\&logo=react\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat\&logo=radixui\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge\&logo=radixui\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?\&style=for-the-badge\&logo=redis\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
 
 ---
 
-## Software Engineering
+# Software Engineering
 
-My main areas of study and practice include:
-
-* Object-Oriented Programming, SOLID Principles, Design Patterns, Software Architecture
+* Object-Oriented Programming
+* SOLID Principles
+* Design Patterns
+* Software Architecture
 * RESTful APIs
-* Authentication & Authorization, JWT & OAuth
-* Relational Databases & NoSQL Databases
-* Database Query Optimization & Distributed Caching
+* Authentication & Authorization
+* JWT
+* OAuth
+* Relational Databases
+* NoSQL Databases
+* Database Query Optimization
+* Distributed Caching
 * Cloud Computing
 * CI/CD
 * Git & GitHub
 * UX/UI
-* SEO & Web Performance
-* Generative AI & API Integration
+* SEO
+* Web Performance
+* Generative AI API Integration
 
 ---
 
-## Education
+# Education
 
-### Instituto Federal do Sudeste de Minas Gerais
+## Instituto Federal do Sudeste de Minas Gerais
 
 **Bachelor's Degree in Internet Systems**
 
@@ -242,7 +297,7 @@ Expected graduation: **December 2026**
       <a href="https://www.ifsudestemg.edu.br/">
         <img
           src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
-          height="55"
+          height="60"
           alt="IF Sudeste MG"
         />
       </a>
@@ -250,7 +305,7 @@ Expected graduation: **December 2026**
   </tr>
 </table>
 
-### Computer Networks Technician
+## Computer Networks Technician
 
 **Instituto Premium**
 
@@ -258,9 +313,9 @@ Completed in **June 2026**
 
 ---
 
-## Courses & Certifications
+# Courses & Certifications
 
-### University of Helsinki
+## University of Helsinki
 
 <table>
   <tr>
@@ -276,15 +331,18 @@ Completed in **June 2026**
 
 **Java Programming MOOC**
 
-* Java Programming I & II
+* Java Programming I
+* Java Programming II
 
 **Full Stack Open**
 
 * Full Stack Web Development
 
-### Cisco Networking Academy
+---
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-informational?style=flat\&logo=cisco\&logoColor=white\&color=1BA0D7)
+## Cisco Networking Academy
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 
 * CCNA
 * Linux Unhatched
@@ -293,44 +351,48 @@ Completed in **June 2026**
 * Python Essentials 1 & 2
 * English for IT 1 & 2
 
-### Additional Studies
+---
 
-![Java](https://img.shields.io/badge/Java-OOP-informational?style=flat\&logo=openjdk\&logoColor=white\&color=ED8B00)
-![Architecture](https://img.shields.io/badge/Software-Architecture-informational?style=flat\&logo=diagramsdotnet\&logoColor=white\&color=F08705)
-![SOLID](https://img.shields.io/badge/Principles-SOLID-informational?style=flat\&logo=cleanarchitecture\&logoColor=white\&color=6C63FF)
+## Learning Platforms
 
-* Java Object-Oriented Programming
-* Design Patterns
-* SOLID Principles
-* Full Stack Development
-* Software Architecture
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge\&logo=Udemy\&logoColor=white)
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge\&logo=scrimba\&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge\&logo=freecodecamp\&logoColor=white)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge\&logo=codecademy\&logoColor=303347)
 
 ---
 
-## Languages
+# Languages
 
-**Portuguese** — Native
-
-**English** — B2
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-012169?style=for-the-badge)
 
 ---
 
-## Contact
+# Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Nunes-informational?style=flat\&logo=linkedin\&logoColor=white\&color=0A66C2)](https://www.linkedin.com/in/pedro-nunes-dev-contato)
-
-[![GitHub](https://img.shields.io/badge/GitHub-PedroNunes0z-informational?style=flat\&logo=github\&logoColor=white\&color=181717)](https://github.com/PedroNunes0z)
-
-[![Email](https://img.shields.io/badge/Email-contato.pedronunes.dev%40gmail.com-informational?style=flat\&logo=gmail\&logoColor=white\&color=EA4335)](mailto:contato.pedronunes.dev@gmail.com)
+[![Website](https://img.shields.io/badge/Website-pedronunesdev-222222?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://pedronunes0z.github.io/pedronunesdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Nunes-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-nunes-dev-contato)
+[![GitHub](https://img.shields.io/badge/GitHub-PedroNunes0z-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PedroNunes0z)
+[![Gmail](https://img.shields.io/badge/Gmail-contato.pedronunes.dev-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:contato.pedronunes.dev@gmail.com)
 
 <br>
 
 <a href="https://github.com/pedromxavier/flag-badges">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+  <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
 </a>
 
 ---
 
 <p align="center">
-  <sub>Software Engineering • Full Stack Development • Cloud • Continuous Learning</sub>
+  <sub>Software Engineering • Full Stack Development • Cloud Computing • Continuous Learning</sub>
 </p>
+
+<!--
+Optional support button.
+Replace YOUR_USERNAME with your Buy Me a Coffee username before enabling it.
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
+-->
