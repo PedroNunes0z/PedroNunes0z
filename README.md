@@ -314,7 +314,7 @@ Expected graduation: **December 2026**
     <td align="center" bgcolor="#ffffff">
       <a href="https://www.ifsudestemg.edu.br/](https://institutopremium.com.br/">
         <img
-          src="./logo-instituto-premium.webp"
+          src="./logo-instituto-premium.png"
           height="60"
           alt="Instituo Premium"
         />
