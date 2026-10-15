@@ -35,7 +35,7 @@
     <td align="center" bgcolor="#ffffff">
       <a href="https://www.gov.br/cnpq/">
         <img
-          src="https://logodownload.org/wp-content/uploads/2016/10/cnpq-logo-7.png"
+          src="./cnpq-logo.png"
           height="65"
           alt="CNPq"
         />
@@ -296,7 +296,7 @@ Expected graduation: **December 2026**
     <td align="center" bgcolor="#ffffff">
       <a href="https://www.ifsudestemg.edu.br/">
         <img
-          src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
+          src="./logo_horizontal_ifsudestemg.png"
           height="60"
           alt="IF Sudeste MG"
         />
@@ -308,6 +308,20 @@ Expected graduation: **December 2026**
 ## Computer Networks Technician
 
 **Instituto Premium**
+
+<table>
+  <tr>
+    <td align="center" bgcolor="#ffffff">
+      <a href="https://www.ifsudestemg.edu.br/](https://institutopremium.com.br/">
+        <img
+          src="./logo-instituto-premium.webp"
+          height="60"
+          alt="Instituo Premium"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Completed in **June 2026**
 
