@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Software Engineering | Java | Spring Boot | React | Next.js
 
-*Full Stack Developer and PIBITI Researcher at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
+*Full Stack Developer and PIBITI Researcher at [Instituto Federal do Sudeste de Minas Gerais](./logo_horizontal_ifsudestemg.png)*
 *Software Engineer and Project Lead at **Descontey!***
 *Internet Systems undergraduate at [Instituto Federal do Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/)*
 
