@@ -26,7 +26,7 @@
     <td align="center" bgcolor="#ffffff">
       <a href="https://www.ifsudestemg.edu.br/">
         <img
-          src="https://www.ifsudestemg.edu.br/comunicacao-social/logos/if-sudeste-mg/logo_horizontal_ifsudestemg%282%29.png"
+          src="./logo_horizontal_ifsudestemg.png"
           height="65"
           alt="Instituto Federal do Sudeste de Minas Gerais"
         />
