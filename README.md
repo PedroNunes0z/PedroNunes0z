@@ -198,13 +198,8 @@ Research and technological development project focused on a **Full Stack Progres
 
 Main contributions:
 
-* Full Stack PWA development
-* Authentication with hashed passwords
-* Google OAuth integration
-* Rate limiting and application security
-* Responsive interface focused on UX
-* Behavioral analysis algorithms
-* PostgreSQL persistence with Supabase
+* Full Stack PWA development, Responsive interface focused on UX, Behavioral analysis algorithms
+* Authentication with hashed passwords, Google OAuth integration, Rate limiting and application security, PostgreSQL persistence with Supabase
 * Production deployment using Vercel
 
 **Stack**
@@ -229,19 +224,11 @@ Main contributions:
 
 * Architecture and development of the platform
 * Infrastructure designed for approximately **30,000 simultaneous users**
-* Administrative dashboard for managing thousands of publications
-* User, category and content management
-* Generative AI API integrations
-* Automatic description and image generation
-* Database query optimization
-* Storage indexing and performance improvements
-* Query response time reduction of approximately **75%**
-* Distributed caching strategy
+* Administrative dashboard for managing thousands of publications, generative AI API integrations
+* Database query optimization, Storage indexing and performance improvements, Query response time reduction of approximately **25%**, Distributed caching strategy
 * Migration to Next.js
-* SEO and web performance optimization
-* Lighthouse scores above **95**
-* Notification management system
-* Cloud infrastructure optimization
+* SEO and web performance optimization, Lighthouse scores above **95**
+* Cloud infrastructure optimization, Notification management system
 
 **Stack**
 
@@ -262,24 +249,13 @@ Main contributions:
 # Software Engineering
 
 * Object-Oriented Programming
-* SOLID Principles
-* Design Patterns
-* Software Architecture
-* RESTful APIs
+* Design Patterns, Software Architecture
+* RESTful APIs, Generative AI API Integration
 * Authentication & Authorization
-* JWT
-* OAuth
-* Relational Databases
-* NoSQL Databases
-* Database Query Optimization
-* Distributed Caching
-* Cloud Computing
-* CI/CD
-* Git & GitHub
-* UX/UI
-* SEO
-* Web Performance
-* Generative AI API Integration
+* JWT, OAuth
+* Relational Databases, NoSQL Databases, Database Query Optimization
+* Distributed Caching, Cloud Computing, CI/CD,, Git & GitHub
+* UX/UI, SEO, Web Performance
 
 ---
 
